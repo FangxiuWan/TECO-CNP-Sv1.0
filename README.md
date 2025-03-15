@@ -1,6 +1,8 @@
 # TECO-CNP Sv1.0
 
-This respository contains the code that accompanies th article (DOI). 
+This respository contains the code that accompanies the article 
+TECO-CNP Sv1.0: A coupled carbon-nitrogen-phosphorus model with data assimilation for subtropical forests
+Wan et al., 2025 [DOI]. 
 
 Please refer to the README file for the steps to follow before running the model.
 
