@@ -26,7 +26,7 @@ To run the TECO-CNP model, you need to install the following packages:
 - **LAPACKE**: A C interface to LAPACK, which allows easier integration of LAPACK functionality into C/C++ programs.
 
 # Create compiled Fortran modules and run model
-To generate the compiled Fortran modules and run model, please execute the runtecocnp.sh script in your terminal using the following command
+To generate the compiled Fortran modules and run model, please execute the runtecocnp.sh script in your terminal using the following command.
 During the peer review stage, a one-year forcing dataset has been made available to demonstrate the model's functionality.
 
 ```console
