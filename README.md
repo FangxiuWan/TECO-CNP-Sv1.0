@@ -2,9 +2,10 @@
 
 This respository contains the code that accompanies the article 
 TECO-CNP Sv1.0: A coupled carbon-nitrogen-phosphorus model with data assimilation for subtropical forests
-Wan et al., 2025 [DOI]. 
+Wan et al., 2025 (https://doi.org/10.5194/gmd-18-7545-2025). 
 
 Please refer to the README file for the steps to follow before running the model.
+For more information, please visit our official website: www.tecocnp.com
 
 # Check compiler
 This code runs with gfortran compile, e.g.
